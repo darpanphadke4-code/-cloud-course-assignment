@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: green;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
